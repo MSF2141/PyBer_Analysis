@@ -10,4 +10,4 @@ The objective of this project is to analyze the ride-sharing data of PyBer compa
 ![pyber_summary](https://github.com/MSF2141/PyBer_Analysis/blob/e3fca51bd917434fb4fca902b15ab067b4e2e3f9/Analysis/pyber_summary.png)
 
 ## Summary
-Analysis of ride-sharing data shows that differences exist based on city type. There are many more rides and drivers in the urban setting; however, the drivers are paid the least for their service compared to other city types.
+Analysis of ride-sharing data shows that differences exist based on city type. There are many more rides and drivers in the urban setting; however, the drivers are paid the least for their service compared to other city types. Nevertheless, the profit in the urban setting is the highest.
